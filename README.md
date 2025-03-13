@@ -1,4 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=61A5FF&text=Welcome👋&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Frontend%20Developer&descAlignY=70&fontColor=fff" width="100%"/>
+# About Me
+
+
 
 # Tech Skills
 
@@ -13,11 +16,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=whitefor-the-badge>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=whitefor-the-badge"/>
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div>
 
+<div>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITHPARK)](https://github.com/ITHPARK/github-readme-stats)
+  
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITHPARK)](https://github.com/ITHPARK/github-readme-stats)
 
 
 Here are some ideas to get you started:
