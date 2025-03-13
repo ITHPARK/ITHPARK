@@ -1,11 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=61A5FF&text=Welcome👋&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Frontend%20Developer&descAlignY=70&fontColor=fff" width="100%"/>
-# About Me
 
+# 🙎‍♂️ About Me
 
+🧐 안녕하세요. 최고의 효율을 만들어 내고싶은 프론트엔드 개발자 박태현입니다. <br>
 
-# Tech Skills
+🧐 좋은 성능을 끌어내는것에 관심이 있으며, 항상 개발 이후에는 lighthouse 점수를 최대한 올릴 수 있도록 고민하고 리팩토링합니다. <br>
 
-## Language
+🧐 최대한으로 성능을 끌어내기 위해서 항상 최적화를 중요시하여, 모든 개발 이후에는 lighthouse 점수를 최대한 올릴 수 있도록 고민하고 리팩토링합니다. <br>
+
+# 😎 Tech Skills
 
 <div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
