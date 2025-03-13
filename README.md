@@ -7,14 +7,14 @@
 
 🧐 안녕하세요. 최고의 효율을 만들어 내고싶은 프론트엔드 개발자 박태현입니다! <br>
 
-🔍 좋은 성능을 끌어내는것에 관심이 있으며, 항상 개발 이후에는 lighthouse 점수를 최대한 올릴 수 있도록 고민하고 <a href="">공부하며</a> 리팩토링합니다! <br>
+🔍 좋은 성능을 끌어내는것에 관심이 있으며, 항상 개발 이후에는 lighthouse 점수를 최대한 올릴 수 있도록 고민하고 <a href="https://github.com/ITHPARK/React-Optimization" target="_blank">공부하며</a> 리팩토링합니다! <br>
 
 🧑‍🤝‍🧑 팀원과 소통하며 확실한 피드백을 받고 문제점을 개선 및 새로운 것을 배우는 과정을 좋아하며 중요시 여깁니다! <br>
 
 <br>
 <br>
 
-🛠️ Stacks <br>
+### 🛠️ **Stacks**<br>
 
 <div style="display: flex; justify-content: center; flex: 1;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
@@ -29,15 +29,16 @@
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div>
 
-⚙️ Tools <br>
+<br>
+
+### ⚙️ **Tools** <br>
 
 <div style="display: flex; justify-content: center; flex: 1;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
 
-
-
+<br>
 
 <div>
   
