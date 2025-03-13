@@ -1,5 +1,3 @@
-<div style="background-color: #000">
-
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=61A5FF&text=Welcome👋&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Frontend%20Developer&descAlignY=70&fontColor=fff" width="100%"/>
 
 # Sliks
@@ -31,4 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  </div>
