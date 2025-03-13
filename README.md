@@ -12,7 +12,6 @@
 🧑‍🤝‍🧑 팀원과 소통하며 확실한 피드백을 받고 문제점을 개선 및 새로운 것을 배우는 과정을 좋아하며 중요시 여깁니다! <br>
 
 <br>
-<br>
 
 ### 🛠️ **Stacks**<br>
 
@@ -37,8 +36,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
 </div>
-
-<br>
 
 <div>
   
