@@ -16,9 +16,6 @@
 
 # 😎 Tech Skills
 
-
-
-  
 <div style="display: flex; justify-content: center; flex: 1;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
@@ -37,5 +34,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITHPARK)](https://github.com/ITHPARK/github-readme-stats)
   
 </div>
+
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user='ITHPARK'&repo='mogua-develop')]('https://github.com/ITHPARK/mogua-develop')
 
 
