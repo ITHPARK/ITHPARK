@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=61A5FF&text=Welcome👋&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Frontend%20Developer&descAlignY=70&fontColor=fff" width="100%"/>
 
-# Sliks
+# Tech Skills
+
+## Language
 
 <div style="display: flex; justify-content: center;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
