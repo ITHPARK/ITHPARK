@@ -14,7 +14,7 @@
 <br>
 <br>
 
-# 😎 Tech stacks
+🛠️ Stacks <br>
 
 <div style="display: flex; justify-content: center; flex: 1;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
@@ -28,6 +28,16 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=whitefor-the-badge"/>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
 </div>
+
+⚙️ Tools <br>
+
+<div style="display: flex; justify-content: center; flex: 1;">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=fff"/>
+</div>
+
+
+
 
 <div>
   
