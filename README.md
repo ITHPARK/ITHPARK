@@ -7,7 +7,7 @@
 
 🧐 안녕하세요. 최고의 효율을 만들어 내고싶은 프론트엔드 개발자입니다! <br>
 
-🔍 좋은 성능을 끌어내는것에 관심이 있으며, 개발 이후에는 lighthouse 점수를 최대한 올릴 수 있도록 고민하고 <a href="https://github.com/ITHPARK/React-Optimization" target="_blank">공부하며</a> 리팩토링합니다! <br>
+🔍 좋은 성능을 끌어내는것에 관심이 있으며, 개발 이후에는 lighthouse 점수를 최대한 올릴 수 있도록 고민하고 <a href="https://github.com/ITHPARK/React-Optimization" target="_blank">공부합니다!</a>  <br>
 
 🧑‍🤝‍🧑 팀원과 소통하며 확실한 피드백을 받고 문제점을 개선 및 새로운 것을 배우는 과정을 좋아하며 중요시 여깁니다! <br>
 
